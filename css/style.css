@@ -1307,3 +1307,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .footer-links a:hover {
   color: #1dc8cd;
 }
+
+#map_wrapper {
+  height: 400px;
+}
+
+#map_canvas {
+  width: 100%;
+  height: 100%;
+}
